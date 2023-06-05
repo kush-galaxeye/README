@@ -3,17 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/soy_kush" target="blank"><img src="https://img.shields.io/twitter/follow/soy_kush?logo=twitter&style=for-the-badge" alt="soy_kush" /></a> </p>
 
-- 🔭 I’m currently working on [Hades](https://dropover.cloud/e4d43f)
+- 🔭 I’m currently working on [Hades](https://soykush.com/work/hades)
 
 - 🌱 I’m currently upskilling **Golang**
 
 - 🤝 I’m looking for help in [building a new operating system which emphasises deep work](https://www.figma.com/file/6n3UDMFZlNC5b310jFUetf/DEPTH?type=design&node-id=0%3A1&t=vatcIt4UxrcctugC-1)
 
-- 💬 Ask me about **infrastructure, AWS, orchestration, architecture design three.js and anything related to UI/UX**
+- 💬 Ask me about **infrastructure, AWS, orchestration, architecture design and anything related to UI/UX**
 
 - 📫 How to reach me **kushthakker@protonmail.com**
 
 - ⚡ Fun fact **I geeks out on mixed reality and human computer interface.**
+
+- 🌐 Visit me at [soykush.com](https://soykush.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
