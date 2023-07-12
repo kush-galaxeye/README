@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hades](https://soykush.com/work/hades)
 
-- 🌱 I’m currently upskilling **Golang**
+- 🌱 I’m currently upskilling **Golang** and **SwiftUI**
 
 - 🤝 I’m looking for help in [building a new operating system which emphasises deep work](https://www.figma.com/file/6n3UDMFZlNC5b310jFUetf/DEPTH?type=design&node-id=0%3A1&t=vatcIt4UxrcctugC-1)
 
